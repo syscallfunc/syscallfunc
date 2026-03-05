@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **sys** — a developer and tinkerer. I build websites, programs and tools.
+I'm **sys** — a developer and tinkerer. I build websites, programs and tools. Obsessed with old tech.
 
 ## Skills & Technologies
 
